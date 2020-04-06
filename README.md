@@ -7,3 +7,7 @@ In the B2B partnership, the selling company is a Merchant and the buyer is often
 ```
 composer require spryker-feature/merchant
 ```
+
+## Optional modules
+- [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
+- [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)

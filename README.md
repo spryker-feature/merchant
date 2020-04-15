@@ -9,5 +9,6 @@ composer require spryker-feature/merchant
 ```
 
 ## Optional modules
+- [MerchantExtension](https://github.com/spryker/merchant-extension) (Extension)
 - [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
 - [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)

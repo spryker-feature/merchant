@@ -9,14 +9,11 @@
     "php": ">=7.2",
     "spryker/merchant": "^3.0.0",
     "spryker/merchant-data-import": "^0.3.0",
-    "spryker/merchant-gui": "^3.0.0",
-    "spryker/merchant-stock": "^0.2.0",
-    "spryker/merchant-stock-data-import": "^0.2.0",
-    "spryker/merchant-stock-gui": "^0.1.0"
+    "spryker/merchant-gui": "^3.0.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202006.x-dev"
+      "dev-master": "202008.x-dev"
     }
   }
 }

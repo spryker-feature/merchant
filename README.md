@@ -11,6 +11,5 @@ composer require spryker-feature/merchant
 ## Optional modules
 - [MerchantExtension](https://github.com/spryker/merchant-extension) (Extension)
 - [MerchantGuiExtension](https://github.com/spryker/merchant-gui-extension) (Extension)
-- [MerchantsRestApi ^0.1.0](https://github.com/spryker/merchants-rest-api) (Glue)
 - [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
 - [SalesMerchantConnector ^1.0.0](https://github.com/spryker/sales-merchant-connector) (Connector)

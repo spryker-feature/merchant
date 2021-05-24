@@ -1,19 +1,19 @@
 {
-  "name": "spryker-feature/merchant",
-  "description": "Merchant [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/merchant": "^3.0.0",
-    "spryker/merchant-data-import": "^0.4.0",
-    "spryker/merchant-gui": "^3.4.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/merchant",
+    "description": "Merchant [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/merchant": "^3.0.0",
+        "spryker/merchant-data-import": "^0.4.0",
+        "spryker/merchant-gui": "^3.4.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }

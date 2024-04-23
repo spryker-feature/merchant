@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker/merchant": "^3.9.0",
+        "spryker/merchant": "^3.10.0",
         "spryker/merchant-data-import": "^0.5.0",
-        "spryker/merchant-gui": "^3.11.0",
+        "spryker/merchant-gui": "^3.12.0",
         "spryker/merchant-search": "^1.0.0",
         "spryker/merchant-storage": "^1.1.0"
     },

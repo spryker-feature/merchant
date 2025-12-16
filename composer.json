@@ -7,15 +7,15 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/merchant": "^3.15.0",
+        "spryker/merchant": "^3.19.0",
         "spryker/merchant-data-import": "^0.5.0",
         "spryker/merchant-gui": "^4.0.0",
-        "spryker/merchant-search": "^1.1.0",
-        "spryker/merchant-storage": "^1.4.0"
+        "spryker/merchant-search": "^1.2.0",
+        "spryker/merchant-storage": "^1.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
